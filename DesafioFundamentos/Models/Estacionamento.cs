@@ -1,4 +1,4 @@
-// "Desafio concluído!"
+// "Desafio concluído."
 namespace DesafioFundamentos.Models
 {
     public class Estacionamento
